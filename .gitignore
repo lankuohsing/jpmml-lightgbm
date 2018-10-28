@@ -1,7 +1,4 @@
 *.txt
 target/*
 *.pmml
-
-/target/
-*
-/data/*
+data/*
