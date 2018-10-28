@@ -23,7 +23,7 @@ import org.jpmml.evaluator.TargetField;
 
 public class IrisTest {
 	public static void main(String[] args) throws Exception {
-		String  pathxml="D:/Projects/github/jpmml-lightgbm/lightgbm_iris_model.pmml";
+		String  pathxml="./data/lightgbm_iris_model.pmml";
 		Map<String, Double>  map=new HashMap<String, Double>();
 /*		map.put("Sepal.Length", 5.1);
 		map.put("Sepal.Width", 3.5);
